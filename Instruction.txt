@@ -1,0 +1,7 @@
+Instruction:
+_ Press W, S to move left paddle up and down.
+_ Press O, K to move right paddle up and down.
+_ Left Mouse to start the game and change the orbit of the ball.
+_ Middle Mouse to reset the game.
+
+Have fun :)
