@@ -1,5 +1,5 @@
 # (actually) Brick Game
-* Instruction:
+Instruction:
 - Use J & L to move the bottom paddle
 - Use A & D to move the upper paddle
 - Press P to pause & unpause
